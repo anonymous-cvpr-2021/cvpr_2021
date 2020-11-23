@@ -1,0 +1,3 @@
+nibabel
+pytorch_ssim
+numpy
